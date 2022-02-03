@@ -1,2 +1,9 @@
-# Text-Citation
-Text citation HTML code
+<!DOCTYPE html>
+<html>
+<head>
+<title>Citations Example</title>
+</head>
+<body>
+<p>This HTML tutorial is derived from <cite>W3 Standard for HTML</cite>.</p>
+</body>
+</html>
